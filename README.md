@@ -12,5 +12,5 @@ $conda deactivate
 # install jupyter
 
 ```sh
-$conda install -c conda-forge jupyter
+$conda install -c conda-forge jupyterlab
 ```
